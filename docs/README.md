@@ -1,3 +1,3 @@
-# BlockChain
+# BlockChain - GarVazSof
 
-Personal site and repo for Blockchain development
+Luis Garcia's Personal site and repo for Blockchain development, research and collaboration
